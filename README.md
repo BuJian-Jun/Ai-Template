@@ -20,7 +20,7 @@ AI提问模板是一个帮助你获得更精确、全面的解答的工具，特
 
 
 点击蓝字跳转到模板页面: [复制AI提问模板](https://github.com/BingXuanTian/Ai-Template/blob/main/Ai%20Exam%20Review%20Template.md)<br>
-                 或者 [上一个版本](https://github.com/BingXuanTian/Ai-Template/blob/main/last_version.md)
+                 或者 [上一个版本](https://github.com/BingXuanTian/Ai-Template/blob/main/last_version.md)个人感觉更好用⭐
 
   2. **将模板发送给你的AI**
 将模板中的内容填写完整后，提交给AI。AI会根据你的问题背景和要求，提供详细的解答，并帮助你发现可能存在的学习盲点。
